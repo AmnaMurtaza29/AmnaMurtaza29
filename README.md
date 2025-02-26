@@ -9,17 +9,19 @@
 
 - 🔭 I’m currently working on **a Real World Project.**
 
-- 🌱 I’m currently learning **Next.js and C++.**
+- 🌱 I’m currently learning **C++ and DSA.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amna-sadia-korai-82b0ab22a/](https://www.linkedin.com/in/amna-sadia-korai-82b0ab22a/)
 
-- 📝 I regularly write articles on [https://bibliophileamna.medium.com/](https://bibliophileamna.medium.com/)
+- 📝 I write articles on [https://bibliophileamna.medium.com/](https://bibliophileamna.medium.com/)
 
-- 💬 Ask me about **JavaScript, TypeScript and React.js.**
+- 💬 Ask me about **JavaScript, TypeScript, Python and C++.**
 
 - 📫 How to reach me **murtazaamna117@gmail.com**
 
 - ⚡ Fun fact **I have multiple hobbies.**
+
+- Follow me instagram.com/forgefreelancing/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
